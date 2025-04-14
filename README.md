@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer in the making | Generative AI | CV | DL | Data Science</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=440&lines=AI+enthusiast+%7C+CV+researcher+%7C+Data+Science+Lover;Always+learning+and+building+innovative+things" alt="Typing SVG" />
+  Passionate about AI, ML, Deep Learning, Computer Vision, and creating innovative solutions.
 </p>
 
 ---
@@ -56,7 +56,12 @@
 
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johiwilson404@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jothi-keerthana-wilson/)
-[![Resume](https://img.shields.io/badge/Resume-6c5ce7?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1txB_yMbJeWAsdfAqY34pYA-hXE0JEQqJ/view?usp=drivesdk)
+
+---
+
+### 📄 Resume
+
+You can find my **[Resume here](https://drive.google.com/file/d/1txB_yMbJeWAsdfAqY34pYA-hXE0JEQqJ/view?usp=drivesdk)**.
 
 ---
 
