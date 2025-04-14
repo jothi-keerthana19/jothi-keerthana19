@@ -54,10 +54,9 @@
 
 ### 📫 Connect with Me
 
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jothikeerthana19@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jothi-keerthana)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00b894?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jothi-keerthana19)
-[![Resume](https://img.shields.io/badge/Resume-6c5ce7?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1LQp7GKD4BxvL8UN7YSGUiBo9Fx8U-Qgn/view?usp=drive_link)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johiwilson404@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jothi-keerthana-wilson/)
+[![Resume](https://img.shields.io/badge/Resume-6c5ce7?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1txB_yMbJeWAsdfAqY34pYA-hXE0JEQqJ/view?usp=drivesdk)
 
 ---
 
