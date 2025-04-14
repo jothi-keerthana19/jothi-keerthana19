@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jothi Keerthana W</h1>
-<h3 align="center">AI Engineer in the making | Generative AI | CV | DL | Data Science</h3>
+<h3 align="center">AI Engineer in the making | Generative AI | ML | DL | Data Science</h3>
 
 <p align="center">
   Passionate about AI, ML, Deep Learning, Computer Vision, and creating innovative solutions.
@@ -69,7 +69,6 @@ You can find my **[Resume here](https://drive.google.com/file/d/1txB_yMbJeWAsdfA
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jothi-keerthana19&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jothi-keerthana19&theme=tokyonight" alt="streaks" />
 </p>
 
 ---
