@@ -61,7 +61,7 @@
 
 ### 📄 Resume
 
-You can find my **[Resume here](https://drive.google.com/file/d/1txB_yMbJeWAsdfAqY34pYA-hXE0JEQqJ/view?usp=drivesdk)**.
+You can find my **[Resume here]([https://drive.google.com/file/d/1txB_yMbJeWAsdfAqY34pYA-hXE0JEQqJ/view?usp=drivesdk](https://drive.google.com/file/d/1sWuMJnFzIS-U8siHwP52oU3O71TQLjIy/view?usp=drive_link))**.
 
 ---
 
