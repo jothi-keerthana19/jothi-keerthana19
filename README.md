@@ -35,7 +35,7 @@
 - 🧠 **[NarrateIt](https://narrateit.streamlit.app/)** – Convert text into natural voice narration using Streamlit  
 - 🚕 **[Uber Tips Analysis](https://github.com/jothi-keerthana19/jothi_keerthana8120-UBERTIPSANALYSIS)** – Visual storytelling with ride-hailing datasets  
 - 🤖 **[AI Starter Kit](https://github.com/jothi-keerthana19/ai-starter-kit)** – Hackathon task to implement Enterprise Knowledge Retrieval kit to create Stock market Analysis System
-- ✋ **Sign Language Detection** – Real-time ASL recognition for accessibility  
+- ✋ **[FIT4HIRE](https://github.com/jothi-keerthana19/PD_FIT4HIRE)** - AI-powered resume analyzer optimizing resumes for tech roles with detailed ATS compatibility feedback.
 
 ---
 
