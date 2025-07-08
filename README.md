@@ -10,8 +10,8 @@
 🌟 **About Me**  
 - 🎓 Pre-final year student at **National Engineering College, Kovilpatti, Tamil Nadu**  
 - 🌍 From **Kovilpatti, India**  
-- 🎯 Currently building a **Voice-to-Voice Generative AI system**  
-- 🧏‍♀️ Working on **real-time Sign Language Recognition** using CV and DL  
+- 🎯 Currently building **Eye Health Monitoring System**
+- 🧏‍♀️ Working on **real-time eye health monitoring system using Computer Vision**  
 - 🌱 Passionate about **Generative AI**, **ML**, **DL**, **NLP**, and **Data Science**  
 - 📌 Believer in human-centered AI & impactful innovation  
 
@@ -34,8 +34,8 @@
 
 - 🧠 **[NarrateIt](https://narrateit.streamlit.app/)** – Convert text into natural voice narration using Streamlit  
 - 🚕 **[Uber Tips Analysis](https://github.com/jothi-keerthana19/jothi_keerthana8120-UBERTIPSANALYSIS)** – Visual storytelling with ride-hailing datasets  
-- 🤖 **[AI Starter Kit](https://github.com/jothi-keerthana19/ai-starter-kit)** – Foundation for building scalable AI prototypes  
-- ✋ **Sign Language Detection** *(in-progress)* – Real-time ASL recognition for accessibility  
+- 🤖 **[AI Starter Kit](https://github.com/jothi-keerthana19/ai-starter-kit)** – Hackathon task to implement Enterprise Knowledge Retrieval kit to create Stock market Analysis System
+- ✋ **Sign Language Detection** – Real-time ASL recognition for accessibility  
 
 ---
 
@@ -43,7 +43,7 @@
 - Deep Learning Architectures (CNNs, Transformers, GANs)  
 - Voice-Driven AI Interfaces  
 - Real-time Gesture & Pose Estimation  
-- AI product deployment using Streamlit and Flask  
+- AI based systems using Streamlit and Flask  
 
 ---
 
